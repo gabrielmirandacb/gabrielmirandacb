@@ -1,12 +1,12 @@
 ### Oi, Sou o Gabriel Miranda👋
 <a>🎓Graduando em Análise e Desenvolvimento de Sistemas</a>
 <br>
-<a>👨🏻‍💻Desenvolvedor Back-End pela </a><a href="https://softexpe.org.br">[Softex Pernambuco]</a>
+<a>👨🏻‍💻Desenvolvedor Back-End pela </a><a href="https://softexpe.org.br">Softex Pernambuco</a>
 ##
-<div align="center">
+<div >
     <a href="https://github.com/gabrielmirandacb">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmirandacb&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmirandacb&layout=compact&langs_count=7&theme=vue-dark"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmirandacb&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmirandacb&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 ##
